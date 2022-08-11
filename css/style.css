@@ -1,0 +1,13 @@
+main { 
+    padding-top: 65px; 
+}
+
+@media screen and (max-width: 992px) {
+  body {
+    background-color: blue;
+  }
+}
+
+section2{
+    display: flex;
+}
